@@ -10,6 +10,7 @@ Rating
 |  6/25  |  1100  | KingAnton | N/A |
 |  6/25  |  1100  | Taxi | N/A |
 |  6/27  |  1000  | StartUp | **AC** |
-|  6/27  |  1000  | JonnyandAncientComputer  |   |
+|  6/27  |  1000  | JonnyandAncientComputer  | WA1 |
+|  7/5  |  1000  | Heating | N/A |
 
 
